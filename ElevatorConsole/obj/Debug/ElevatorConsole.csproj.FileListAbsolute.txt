@@ -1,0 +1,7 @@
+C:\Users\LungaNgubane\Documents\ElevatorConsole\obj\Debug\ElevatorConsole.csproj.AssemblyReference.cache
+C:\Users\LungaNgubane\Documents\ElevatorConsole\obj\Debug\ElevatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\LungaNgubane\Documents\ElevatorConsole\bin\Debug\ElevatorConsole.exe.config
+C:\Users\LungaNgubane\Documents\ElevatorConsole\bin\Debug\ElevatorConsole.exe
+C:\Users\LungaNgubane\Documents\ElevatorConsole\bin\Debug\ElevatorConsole.pdb
+C:\Users\LungaNgubane\Documents\ElevatorConsole\obj\Debug\ElevatorConsole.exe
+C:\Users\LungaNgubane\Documents\ElevatorConsole\obj\Debug\ElevatorConsole.pdb
