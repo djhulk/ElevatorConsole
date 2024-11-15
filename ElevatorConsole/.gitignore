@@ -1,0 +1,76 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Windows system files
+AppData/
+Desktop.ini
+ntuser.dat
+*.log
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build outputs
+bin/
+obj/
+out/
+Debug/
+Release/
+
+# Ignore package managers
+node_modules/
+*.lock
+*.package
+
+# Ignore environment and config files
+.env
+*.env.local
+*.env.*.local
+*.secret
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore temporary and cache files
+tmp/
+temp/
+.cache/
+logs/
+
+# Ignore Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ignore NuGet packages (for .NET projects)
+packages/
+*.nupkg
+project.lock.json
+
+# Ignore Azure Functions Tools
+AppData/Local/AzureFunctionsTools/
+
+# Ignore JetBrains Rider files
+.idea/
+*.iml
+
+# Ignore macOS-specific files
+*.DS_Store
+
+# Ignore files in local Git directory
+.git/
+
+# Ignore custom files or folders for your project
+custom_folder/      # Add any project-specific paths here
+custom_file.txt
